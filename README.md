@@ -1,6 +1,6 @@
-[![스타벅스](./images/starbucks_logo.png)](dabbi919.github.io/testStarbucks)
+[![스타벅스](./images/starbucks_logo.png)](dabbi919.github.io/testStarbucks/)
 
-[해당페이지로 이동](dabbi919.github.io/testStarbucks)
+[해당페이지로 이동](dabbi919.github.io/testStarbucks/)
 
 # 프로젝트 명 : Starbucks Clone Codding
 
